@@ -1,6 +1,7 @@
 # duration
 
 Gem to calculate and update model attributes that represent lengths of time.
+based on test app at [git@github.com:xhostcom/calculate_duration.git]
 
 ## Installation
 
@@ -48,6 +49,6 @@ $ irb -r duration
 
 #### Test
 
-ruby test/test_duration.rb
+##### Full test app w/o gem
 
-##### Workflow, GH action run tests
+[git@github.com:xhostcom/calculate_duration.git]
