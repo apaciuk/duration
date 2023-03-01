@@ -11,8 +11,10 @@ source 'https://gem.fury.io/xhostcom/' do
 gem 'duration', '~> 0.0.1'
 end
 
+
+### Or
 ```ruby
-gem "duration"
+gem 'duration', '~> 0.0.1', :github => 'xhostcom/duration'
 ```
 
 And then execute:
